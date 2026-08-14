@@ -6,15 +6,18 @@
 #table{
 	border-collapse:separate;
 	background-color:yellow;
-	border:1px solid black;
+	border:1px solid #808080;
 	width:200px;
 }
 tr,td,th{
-	border:1px solid black;
+	border:2px solid black;
 	padding:0.5rem
 }
 th{
 	font-weight:800px;
 	font-size:20px
-	
+}
+td{
+	font-size:16px;
+	font-weight:bold;
 }
